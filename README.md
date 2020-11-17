@@ -3,6 +3,7 @@
 
 ```javascript
 const aboutMe = {
+   name: "Taranpreet Singh",
    pronouns: "he" | "him",
    code: [Javascript, Python, Typescript, HTML, CSS, C, C++, C#],
    technologies: {
