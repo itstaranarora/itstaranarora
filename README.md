@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**itstaranarora/itstaranarora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, Python, Typescript, HTML, CSS, C, C++, C#],
+   technologies: {
+      frontEnd: {
+         js: ["React", "PWA"],
+         css: ["Materialize", "Bootstrap", "Material Design", "Tailwind UI"]
+      },
+      backEnd: {
+         js: ["Node", "Express"],
+         python: ["Flask","Django"]
+         csharp: ["Asp.net Core"],
+      },
+      databases: ["MongoDB", "mySQL", "SQLServer"],
+   },
+   currentOccupation: ["last year student, open for job opportunities"],
+   challenge: "I'm working towards being able to run a marathon.",
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
