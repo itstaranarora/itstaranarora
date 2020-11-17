@@ -13,7 +13,7 @@ const aboutMe = {
       },
       backEnd: {
          js: ["Node", "Express"],
-         python: ["Flask","Django"]
+         python: ["Flask","Django"],
          csharp: ["Asp.net Core"],
       },
       databases: ["MongoDB", "mySQL", "SQLServer"],
@@ -22,4 +22,3 @@ const aboutMe = {
    challenge: "I'm working towards being able to run a marathon.",
 };
 ```
-
