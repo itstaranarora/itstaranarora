@@ -22,3 +22,5 @@ const aboutMe = {
    challenge: "I'm working towards being able to run a marathon.",
 };
 ```
+<img  src="https://github-readme-stats.vercel.app/api?username=itstaranarora&&show_icons=true&theme=radical"/>
+
