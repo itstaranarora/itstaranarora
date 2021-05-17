@@ -5,21 +5,16 @@
 const aboutMe = {
    name: "Taranpreet Singh",
    pronouns: "he" | "him",
-   code: [Javascript, Python, Typescript, HTML, CSS, C, C++, C#],
+   code: [Javascript, Node],
    technologies: {
       frontEnd: {
-         js: ["React", "PWA"],
-         css: ["Materialize", "Bootstrap", "Material Design", "Tailwind UI"]
+         js: ["React", "NextJS"],
+         css: ["Material UI", "Tailwind UI"]
       },
-      backEnd: {
-         js: ["Node", "Express"],
-         python: ["Flask","Django"],
-         csharp: ["Asp.net Core"],
-      },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
+      databases: ["MongoDB", "SQL"],
    },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   currentOccupation: ["Open for job opportunities"],
+   hobbies: ["Listening Rap Music", "Watching Reaction Channels", "Cryptocurrency"],
 };
 ```
 <img  src="https://github-readme-stats.vercel.app/api?username=itstaranarora&&show_icons=true&theme=radical"/>
